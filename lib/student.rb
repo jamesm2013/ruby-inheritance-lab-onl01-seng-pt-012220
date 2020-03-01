@@ -1,7 +1,4 @@
-class Student 
 class Student < User
-
-end
 
   def initialize
     @knowledge = []
